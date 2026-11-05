@@ -1,0 +1,43 @@
+HTTrack3.51-0 launched on Wed, 04 Nov 2026 21:57:22 at http://www.sjefsolar.com/ +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "zh, en, *" http://www.sjefsolar.com/ -O1 D:\其他网站\SJEFSOLAR\SJEFSOLAR +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:57:23	Warning: 	Moved Permanently for www.sjefsolar.com/robots.txt
+21:57:23	Warning: 	Warning moved treated for www.sjefsolar.com/robots.txt (real one is https://www.sjefsolar.com/robots.txt)
+21:57:23	Warning: 	Moved Permanently for www.sjefsolar.com/
+21:57:23	Warning: 	Redirect to a same-file alias, fetching real content: www.sjefsolar.com/ -> https://www.sjefsolar.com/
+21:57:23	Warning: 	Warning moved treated for www.sjefsolar.com/ (real one is https://www.sjefsolar.com/)
+21:58:56	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/libs/nouglify/ (from https://www.sjefsolar.com/npublic/libs/core/ceccjquery.min.js,require.min.js,lib.min.js,page.min.js?instance=new2023120109163617500&viewType=p&v=1733979068000&siteType=oper)
+21:58:56	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/libs/core/ (from https://www.sjefsolar.com/npublic/libs/core/ceccjquery.min.js,require.min.js,lib.min.js,page.min.js?instance=new2023120109163617500&viewType=p&v=1733979068000&siteType=oper)
+22:01:06	Error: 	"Not Found" (404) at link https://omo-oss-image1.thefastimg.com/portal-saas/new2023063014051117470/cms/image/5b5b3ae4-9eeb-44f5-aec0-35cc68039f93.jpg (from https://www.sjefsolar.com/css/products_fac8992bfec711646c848068d373edee.min.css?instance=new2023120109163617500&viewType=p&v=1733979068000&siteType=oper)
+22:01:09	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/mqdefault.jpg (from https://www.sjefsolar.com/upload/js/c69a65b94b9d48fe90291c18e82934b0.js?instance=undefined&viewType=undefined&v=undefined&siteType=undefined)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/仕净光能企业介绍.pdf (from https://www.sjefsolar.com/download_details/13.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/182.2-16BB_datasheet_CN.pdf (from https://www.sjefsolar.com/download_details/8.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/183.75-10BB_datasheet_CN.pdf (from https://www.sjefsolar.com/download_details/8.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/183.75-16BB_datasheet_CN.pdf (from https://www.sjefsolar.com/download_details/8.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/191.6-16bb_产品单页_CN.pdf (from https://www.sjefsolar.com/download_details/8.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/199-16bb_产品单页_CN.pdf (from https://www.sjefsolar.com/download_details/8.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/210-18BB_产品单页_CN.pdf (from https://www.sjefsolar.com/download_details/8.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/210R-16bb产品单页(1).pdf (from https://www.sjefsolar.com/download_details/8.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/仕净光能705W-730W组件单页.pdf (from https://www.sjefsolar.com/download_details/12.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/仕净光能630W-655W组件单页.pdf (from https://www.sjefsolar.com/download_details/12.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/仕净光能605W-630W组件单页.pdf (from https://www.sjefsolar.com/download_details/12.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/仕净光能580W-605W组件单页.pdf (from https://www.sjefsolar.com/download_details/12.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/仕净光能430W-455W组件单页.pdf (from https://www.sjefsolar.com/download_details/12.html)
+22:02:24	Error: 	"Forbidden" (403) at link https://www.sjefsolar.com/download_details/仕净光能双面组件有限质保书(1).pdf (from https://www.sjefsolar.com/download_details/11.html)
+22:02:25	Error: 	"Not Found" (404) at link https://www.sjefsolar.com/npublic/opdfjs/web/libs/widget/ (from https://www.sjefsolar.com/npublic/libs/core/ceccjquery.js,require.js,lib.js)
+22:02:25	Error: 	"Not Found" (404) at link https://www.sjefsolar.com/npublic/opdfjs/web/libs/nouglify/ (from https://www.sjefsolar.com/npublic/libs/core/ceccjquery.js,require.js,lib.js)
+22:02:25	Error: 	"Not Found" (404) at link https://www.sjefsolar.com/npublic/opdfjs/web/libs/core/ (from https://www.sjefsolar.com/npublic/libs/core/ceccjquery.js,require.js,lib.js)
+22:02:25	Error: 	"Not Found" (404) at link https://www.sjefsolar.com/npublic/opdfjs/web/dommatrix/dist/dommatrix.js (from https://www.sjefsolar.com/npublic/opdfjs/build/pdf.js)
+22:02:25	Error: 	"Not Found" (404) at link https://www.sjefsolar.com/npublic/opdfjs/web/web-streams-polyfill/dist/ponyfill.js (from https://www.sjefsolar.com/npublic/opdfjs/build/pdf.js)
+22:02:25	Error: 	"Not Found" (404) at link https://www.sjefsolar.com/npublic/opdfjs/web/pdf.worker.js (from https://www.sjefsolar.com/npublic/opdfjs/build/pdf.js)
+22:02:25	Error: 	"Not Found" (404) at link https://www.sjefsolar.com/npublic/libs/accesslimit/libs/widget/ (from https://www.sjefsolar.com/npublic/libs/core/ceccjquery.js,require.js,lib.js?t=1792131818486)
+22:02:25	Error: 	"Not Found" (404) at link https://www.sjefsolar.com/npublic/libs/accesslimit/libs/nouglify/ (from https://www.sjefsolar.com/npublic/libs/core/ceccjquery.js,require.js,lib.js?t=1792131818486)
+22:02:25	Error: 	"Not Found" (404) at link https://www.sjefsolar.com/npublic/libs/accesslimit/libs/core/ (from https://www.sjefsolar.com/npublic/libs/core/ceccjquery.js,require.js,lib.js?t=1792131818486)
+
+HTTrack Website Copier/3.51-0 mirror complete in 5 minutes 9 seconds : 608 links scanned, 575 files written (147448374 bytes overall) [136505613 bytes received at 441765 bytes/sec], 14043870 bytes transferred using HTTP compression in 175 files, ratio 18%, 13.6 requests per connection
+(27 errors, 5 warnings, 0 messages)
