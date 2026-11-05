@@ -3058,13 +3058,13 @@ var pdfPreview = function(url,id,k,fname,nodownload,noprint,xin) {
                 }
             }else{
                 if(k && id){
-                    nUrl = "../../opdfjs/web/viewer076c.html?u=" + id
+                    nUrl = "//opdfjs/web/viewer076c.html?u=" + id
                     if(fname){
                         nUrl = nUrl + "&fileName=" + fname
                         sessionStorage.setItem(id,fname)
                     }
                 }else{
-                    nUrl = "../../opdfjs/web/viewer92bd.html?file=" + encodeURIComponent(aurl)
+                    nUrl = "//opdfjs/web/viewer92bd.html?file=" + encodeURIComponent(aurl)
                 }
             }
             if(isWeixin()){

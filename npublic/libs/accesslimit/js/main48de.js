@@ -19,7 +19,7 @@ $(function(){
             success: function (res) {
                 if(res.data && res.data.allow){
                     localStorage.setItem("kt"+tenant.tenantId,+new Date())
-                    location.href="../../../index.html"
+                    location.href="///index.html"
                 }else if(res.data && res.data.errorCode=="1001"){
                     toast('err',"抱歉，您填写的网站授权码已过期，无法访问。", `Sorry, the website authorization code you entered has expired and access is unavailable.`, 5000);
                     field.classList.remove('shake'); void field.offsetWidth; field.classList.add('shake');
